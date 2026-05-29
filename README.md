@@ -1,6 +1,6 @@
 # 🕶️ MISSION LOG: CJ-dev007
 
-Welcome to Headquarters. I am a creative Fullstack Developer operating in the shadows of code, turning complex problems into clean, reliable, and functional solutions.
+Welcome to Headquarters. I am a creative Fullstack Developer operating in the shadows of code, turning complex problems into clean, reliable and functional solutions.
 
 ## 🎯 Current Assignment
 - 🛡️ **Primary Objective:** Master the art of software development.
@@ -17,7 +17,7 @@ Here are the tools of my trade that I am mastering to complete my missions:
 | **Languages** | JavaScript, C#, Python, HTML5, CSS3 |
 | **Frontend & Frameworks** | React, UI & UX Design |
 | **Backend & Runtime** | Node.js, .NET |
-| **Databases** | SQLite, MongoDB |
+| **Databases** | SQLite (SQL), MongoDB |
 | **Version Control** | Git, GitHub |
 | **Environment** | VS Code, Visual Studio |
 
