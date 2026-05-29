@@ -1,16 +1,32 @@
-## Hi there 👋
+# 🕶️ MISSION LOG: CJ-dev007
 
-<!--
-**CJ-dev007/CJ-dev007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to Headquarters. I am a creative Fullstack Developer operating in the shadows of code, turning complex problems into clean, reliable, and functional solutions.
 
-Here are some ideas to get you started:
+## 🎯 Current Assignment
+- 🛡️ **Primary Objective:** Master the art of software development.
+- 🧪 **Active Gadgets:** JavaScript, C#, Python, React, and Git.
+- 🔎 **Special Skill:** Bridging the gap between beautiful design and solid logic.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Tech Stack & Arsenal
+Here are the tools of my trade that I am mastering to complete my missions:
+
+
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | JavaScript, C#, Python, HTML5, CSS3 |
+| **Frontend & Frameworks** | React, UI & UX Design |
+| **Backend & Runtime** | Node.js, .NET |
+| **Databases** | SQLite, MongoDB |
+| **Version Control** | Git, GitHub |
+| **Environment** | VS Code, Visual Studio |
+
+---
+
+## 📞 Contact Headquarters
+If you have a critical mission or just want to talk code, feel free to reach out!
+- 📇 **LinkedIn:** [Chatie Jonsén](https://se.linkedin.com/in/chatie-jons%C3%A9n-40872968)
+- 📧 **Email:** [c.daniels@hotmail.com](mailto:c.daniels@hotmail.com)
+
+*"A developer is never late on a deadline. They deliver precisely when the mission requires it."*
+
