@@ -17,7 +17,7 @@ Here are the tools of my trade that I am mastering to complete my missions:
 | **Languages** | JavaScript, C#, Python, HTML5, CSS3 |
 | **Frontend & Frameworks** | React, UI & UX Design |
 | **Backend & Runtime** | Node.js, .NET |
-| **Databases** | SQLite (SQL), MongoDB |
+| **Databases** | SQLite (SQL) |
 | **Version Control** | Git, GitHub |
 | **Environment** | VS Code, Visual Studio |
 
