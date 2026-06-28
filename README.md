@@ -4,7 +4,7 @@ Welcome to Headquarters. I am a creative Fullstack Developer operating in the sh
 
 ## 🎯 Current Assignment
 - 🛡️ **Primary Objective:** Master the art of software development.
-- 🧪 **Active Gadgets:** JavaScript, C#, Python, React, and Git.
+- 🧪 **Active Gadgets:** JavaScript, C#, Python, React and Git.
 - 🔎 **Special Skill:** Bridging the gap between beautiful design and solid logic.
 
 ## 📊 Tech Stack & Arsenal
